@@ -1,6 +1,6 @@
 ## Wodby, Inc
 
-Wodby is a Kubernetes Platform as a Service that helps you deploy your app to Kubernetes.
+Wodby is a Kubernetes Platform as a Service that helps you deploy your apps to Kubernetes.
 
 We provide configurable stacks with auto-updates to simplify deployment to Kubernetes.
 
